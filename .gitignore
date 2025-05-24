@@ -1,0 +1,28 @@
+# Mundo y datos temporales
+world/
+world_nether/
+world_the_end/
+*.dat
+*.dat_old
+*.lock
+
+# Logs
+logs/
+debug/
+crash-reports/
+*.log
+*.log.gz
+
+# Cache y sesiones
+usercache.json
+whitelist.json
+ops.json
+banned-ips.json
+banned-players.json
+
+# Backups y archivos grandes
+*.zip
+*.rar
+*.bak
+*.tmp
+*.tar
